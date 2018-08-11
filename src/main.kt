@@ -10,4 +10,14 @@ fun main(args:Array<String>){
    *     Sumale 7. Restale 2. Multiplicala por 5. ¿Cual es el resultado?
    *
    * */
+
+    //1. Solucion
+    val miEdad: Int = 15
+
+    //2. Solucion
+    var edadPromedio: Double = 15.0
+    edadPromedio = (edadPromedio + 35)/2
+
+    //3. Solucion
+    var respuesta = 3 + 7 - 2 * 5 //0
 }
